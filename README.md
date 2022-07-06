@@ -14,7 +14,7 @@ This package offers advanced functionality for searching and filtering data usin
 Use the following command to install this package via Composer.
 
 ```bash
-composer require constantable/laravel-scout-sphinx
+composer require wlademon/laravel-scout-sphinx
 ```
 
 ### Configuration
